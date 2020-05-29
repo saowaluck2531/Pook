@@ -1,0 +1,9 @@
+.idea/
+dist/
+node_modules/
+test/lib/
+coverage/
+eustia/
+test/playground.html
+npm-debug.log
+package-lock.json
